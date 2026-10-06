@@ -1,0 +1,5 @@
+# 本地开发工具不入库（依赖本机环境）
+test/
+*.log
+.DS_Store
+.mimosa/
